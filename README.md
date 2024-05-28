@@ -30,4 +30,4 @@ git clone https://github.com/alishams99/Poisson_PINN.git
 After training, the PINN predicts the solution to the Poisson equation on a grid of points. You can visualize the predicted solution by running the provided visualization code or by using your preferred visualization tool.
 
 Below is images of the model training results, with the corresponding code available in the file. These results include 2D and 3D graphs as well as changes in the L2 and L∞ norms:
-
+! [test](result images/2D - 2000.png)
