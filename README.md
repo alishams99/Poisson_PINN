@@ -31,4 +31,7 @@ After training, the PINN predicts the solution to the Poisson equation on a grid
 
 Below is images of the model training results, with the corresponding code available in the file. These results include 2D and 3D graphs as well as changes in the L2 and L∞ norms:
 
-![test](https://github.com/alishams99/Poisson_PINN/blob/main/result%20images/2D%20-%202000.png)
+![2D](https://github.com/alishams99/Poisson_PINN/blob/main/result%20images/2D%20-%202000.png)
+![3D](https://github.com/alishams99/Poisson_PINN/commit/983fad85b77b11d7628a9e1b50addecab9761437)
+![L2](https://github.com/alishams99/Poisson_PINN/blob/main/result%20images/L2%20-%202000.png)
+![Loss](https://github.com/alishams99/Poisson_PINN/blob/main/result%20images/LOSS.png)
